@@ -2,8 +2,8 @@
 
 This repository demonstrates the implementation of two fundamental **Reinforcement Learning (RL)** algorithms:
 
-* ✅ Q-Learning (Off-policy)
-* ✅ SARSA (On-policy)
+* Q-Learning (Off-policy)
+* SARSA (On-policy)
 
 using the classic **Cliff Walking problem**.
 
@@ -17,7 +17,7 @@ The **Cliff Walking environment** is a grid-world problem where:
 * The goal is to reach the destination
 * The bottom row contains a **cliff region**
 
-### ⚠️ Rewards:
+### Rewards:
 
 * Each step → **-1**
 * Falling into cliff → **-100**
